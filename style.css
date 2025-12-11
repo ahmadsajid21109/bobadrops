@@ -5,7 +5,8 @@
     font-family: Arial;
     background-attachment: fixed;
     color: rgb(126, 126, 126);
-    backdrop-filter: blur(2px);
+    text-size : large;
+
  }
  img
  {
